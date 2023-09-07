@@ -1,0 +1,4 @@
+#Thu Sep 07 05:12:06 BRT 2023
+base.0=/home/gustavo/flutter climazord/climazord/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
